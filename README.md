@@ -3,6 +3,7 @@
 Three JavaScript programs:
 
 1. Chai Calculator (chai.js) - Calculates tea ingredients
+
     This program calculates the ingredients needed to make chai based on the number of cups requested.
     Each cup of chai requires:
     - 200ml of water
