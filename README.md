@@ -1,6 +1,6 @@
 # Week 1 Code Challenge
 
-Description
+## Description
 This repository contains three JavaScript programs that solve everyday utility problems:
 
 1. Chai Calculator (chai.js) - Calculates tea ingredients
@@ -58,8 +58,8 @@ This repository contains three JavaScript programs that solve everyday utility p
  
   (Replace filename.js with the actual JavaScript file name)
 
-Author
+## Author
 Joe Wanjema
 
-License
+## License
 This project is licensed under the MIT License.
