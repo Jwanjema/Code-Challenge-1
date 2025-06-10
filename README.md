@@ -22,11 +22,11 @@ Three JavaScript programs:
  
 3. Mobile Money Calculator (fee.js) - Calculates transfer fees
 
-    This program calculates the transaction fee for sending money via mobile money
-    Basic fee is 1.5% of the amount sent
-    Minimum fee is 10 KES, maximum fee is 70 KES 
-    User inputs the amount they want to send
-    and the program calculates the transaction fee and total amount to be debited.
+    This program calculates the transaction fee for sending money via mobile money.
+    - Basic fee is 1.5% of the amount sent.
+    - Minimum fee is 10 KES, maximum fee is 70 KES. 
+    - User inputs the amount they want to send.
+    The program calculates the transaction fee and total amount to be debited.
 
 ## How to Run
 ### Prerequisites
