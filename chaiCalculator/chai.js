@@ -1,3 +1,5 @@
+const prompt = require('prompt-sync')();
+
 // Prompt user for number of chai cups
 let cups = prompt("How many cups of chai do you want to make?");
 cups = Number(cups);

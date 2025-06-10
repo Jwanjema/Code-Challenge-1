@@ -1,8 +1,11 @@
+const prompt = require('prompt-sync')();
 /**
- * BODA BODA FARE CALCULATOR
- * Calculates the total fare for a boda boda (motorbike) ride
- * Base fare: KES 50
- * Per km charge: KES 15
+    * Boda Boda Fare Calculator
+    * This program calculates the fare for a boda boda ride based on distance.
+    * The fare structure is as follows:
+    * - Base fare: KES 50
+    * - Charge per kilometer: KES 15
+    * The user will input the distance in kilometers, and the program will calculate the total fare.
  */
 
 // Get distance from user
